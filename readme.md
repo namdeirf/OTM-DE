@@ -1,4 +1,4 @@
-OTM-DE is in maintenance model. Please see OTM-DEX for the current model development enviroment (DEX). 
+OTM-DE is in maintenance mode. Please see OTM-DEX for the current model development enviroment (DEX). 
 https://github.com/OpenTravel/OTM-DE-Utilities/tree/master/otm-dex
 
 
